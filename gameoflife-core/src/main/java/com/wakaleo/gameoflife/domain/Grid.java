@@ -10,7 +10,7 @@ import static com.wakaleo.gameoflife.domain.Cell.LIVE_CELL;
  * Grid.java
  * Grid object class, containing information on a collection of cells
  */
-public class Grid {
+public class Gri {
 
     private static final int DEFAULT_ROW_COUNT = 3;
     private static final int DEFAULT_COLUMN_COUNT = 3;
